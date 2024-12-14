@@ -7,7 +7,7 @@ It receives real messages from [Stallman's words](https://stallman-copypasta.git
 Test it now!
 
 ## Requisites
-Golang 1.23.4 (I downloaded it today)
+Golang 1.23.3 (I downloaded it today)
 
 ### Third party Libraries
 - bwmarrin/discordgo
@@ -25,4 +25,10 @@ DISCORD_BOT_TOKEN=YOUR_DISCORD_BOT_TOKEN
 And lastly, run it
 ```
 go run .
+```
+
+If you use [Nix](https://nixos.org/), you may alternatively simply run the following:
+
+```bash
+nix run github:csl-club/linux-eva
 ```
