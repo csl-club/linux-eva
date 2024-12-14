@@ -1,1 +1,4 @@
+# `nix build` output
+/result
+
 .env
