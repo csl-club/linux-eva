@@ -1,4 +1,4 @@
-# Linux evangelizer
+# Linux evangelist
 
 A Discord bot written in Golang (made in 3 hours) to evangelize what Linux really is.
 
