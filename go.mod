@@ -1,6 +1,6 @@
 module github.com/csl-utec/linux-eva
 
-go 1.23.4
+go 1.23.3
 
 require (
 	github.com/bwmarrin/discordgo v0.28.1 // indirect
