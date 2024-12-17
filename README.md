@@ -4,7 +4,7 @@ A Discord bot written in Golang (made in 3 hours) to evangelize what Linux reall
 
 It receives real messages from [Stallman's words](https://stallman-copypasta.github.io) and prettifies them for your eyes.
 
-Test it now!
+Turn it on, say ```linux``` and test it now!
 
 ## Requisites
 Golang 1.23.3 (I downloaded it today)
@@ -22,7 +22,7 @@ Then configure your .env following .env.example format:
 ```yaml
 DISCORD_BOT_TOKEN=YOUR_DISCORD_BOT_TOKEN
 ```
-And lastly, run it
+And lastly, run it:
 ```
 go run .
 ```
